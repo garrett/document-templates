@@ -1,8 +1,7 @@
-// created on 5/16/2006 at 10:47 AM
 using System;
 using Gnome;
 
-namespace 
+namespace
 {
 	public class New Gnome# Program : Program
 	{
